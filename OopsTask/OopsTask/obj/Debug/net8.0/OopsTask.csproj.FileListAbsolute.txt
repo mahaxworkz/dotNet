@@ -1,0 +1,15 @@
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\bin\Debug\net8.0\OopsTask.exe
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\bin\Debug\net8.0\OopsTask.deps.json
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\bin\Debug\net8.0\OopsTask.runtimeconfig.json
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\bin\Debug\net8.0\OopsTask.dll
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\bin\Debug\net8.0\OopsTask.pdb
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.AssemblyInfoInputs.cache
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.AssemblyInfo.cs
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.csproj.CoreCompileInputs.cache
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.sourcelink.json
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.dll
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\refint\OopsTask.dll
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.pdb
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\OopsTask.genruntimeconfig.cache
+C:\Users\Maha\source\repos\dotNet\OopsTask\OopsTask\obj\Debug\net8.0\ref\OopsTask.dll
