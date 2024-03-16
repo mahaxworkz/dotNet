@@ -1,0 +1,14 @@
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\bin\Debug\net8.0\OperatorsTask.exe
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\bin\Debug\net8.0\OperatorsTask.deps.json
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\bin\Debug\net8.0\OperatorsTask.runtimeconfig.json
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\bin\Debug\net8.0\OperatorsTask.dll
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\bin\Debug\net8.0\OperatorsTask.pdb
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.AssemblyInfoInputs.cache
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.AssemblyInfo.cs
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.csproj.CoreCompileInputs.cache
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.dll
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\refint\OperatorsTask.dll
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.pdb
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\OperatorsTask.genruntimeconfig.cache
+C:\Users\Maha\source\repos\OperatorsTask\OperatorsTask\obj\Debug\net8.0\ref\OperatorsTask.dll

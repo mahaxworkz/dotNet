@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|c:\\users\\maha\\source\\repos\\operatorstask\\operatorstask\\bitwiseoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|solutionrelative:operatorstask\\bitwiseoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|c:\\users\\maha\\source\\repos\\operatorstask\\operatorstask\\comparisionoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|solutionrelative:operatorstask\\comparisionoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|c:\\users\\maha\\source\\repos\\operatorstask\\operatorstask\\assignmentoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|solutionrelative:operatorstask\\assignmentoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|c:\\users\\maha\\source\\repos\\operatorstask\\operatorstask\\logicaloperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|solutionrelative:operatorstask\\logicaloperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|c:\\users\\maha\\source\\repos\\operatorstask\\operatorstask\\arithmeticoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|solutionrelative:operatorstask\\arithmeticoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|c:\\users\\maha\\source\\repos\\operatorstask\\operatorstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C925CDAA-4C98-471A-A0F0-8DCEE3691E78}|OperatorsTask\\OperatorsTask.csproj|solutionrelative:operatorstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BitwiseOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\BitwiseOperator.cs",
+              "RelativeDocumentMoniker": "OperatorsTask\\BitwiseOperator.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\BitwiseOperator.cs",
+              "RelativeToolTip": "OperatorsTask\\BitwiseOperator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:31:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicalOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\LogicalOperator.cs",
+              "RelativeDocumentMoniker": "OperatorsTask\\LogicalOperator.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\LogicalOperator.cs",
+              "RelativeToolTip": "OperatorsTask\\LogicalOperator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:21:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComparisionOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\ComparisionOperator.cs",
+              "RelativeDocumentMoniker": "OperatorsTask\\ComparisionOperator.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\ComparisionOperator.cs",
+              "RelativeToolTip": "OperatorsTask\\ComparisionOperator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:15:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\AssignmentOperator.cs",
+              "RelativeDocumentMoniker": "OperatorsTask\\AssignmentOperator.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\AssignmentOperator.cs",
+              "RelativeToolTip": "OperatorsTask\\AssignmentOperator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:02:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorsTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\Program.cs",
+              "RelativeToolTip": "OperatorsTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:40:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArithmeticOperator.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\ArithmeticOperator.cs",
+              "RelativeDocumentMoniker": "OperatorsTask\\ArithmeticOperator.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\OperatorsTask\\OperatorsTask\\ArithmeticOperator.cs",
+              "RelativeToolTip": "OperatorsTask\\ArithmeticOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:38:59.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

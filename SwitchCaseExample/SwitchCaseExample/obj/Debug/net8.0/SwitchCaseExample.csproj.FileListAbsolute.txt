@@ -1,0 +1,14 @@
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\bin\Debug\net8.0\SwitchCaseExample.exe
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\bin\Debug\net8.0\SwitchCaseExample.deps.json
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\bin\Debug\net8.0\SwitchCaseExample.runtimeconfig.json
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\bin\Debug\net8.0\SwitchCaseExample.dll
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\bin\Debug\net8.0\SwitchCaseExample.pdb
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.AssemblyInfoInputs.cache
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.AssemblyInfo.cs
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.csproj.CoreCompileInputs.cache
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.dll
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\refint\SwitchCaseExample.dll
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.pdb
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\SwitchCaseExample.genruntimeconfig.cache
+C:\Users\Maha\source\repos\SwitchCaseExample\SwitchCaseExample\obj\Debug\net8.0\ref\SwitchCaseExample.dll
