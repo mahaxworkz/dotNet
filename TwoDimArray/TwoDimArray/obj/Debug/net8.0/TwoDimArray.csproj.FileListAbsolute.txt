@@ -1,0 +1,14 @@
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\bin\Debug\net8.0\TwoDimArray.exe
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\bin\Debug\net8.0\TwoDimArray.deps.json
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\bin\Debug\net8.0\TwoDimArray.runtimeconfig.json
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\bin\Debug\net8.0\TwoDimArray.dll
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\bin\Debug\net8.0\TwoDimArray.pdb
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.AssemblyInfoInputs.cache
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.AssemblyInfo.cs
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.csproj.CoreCompileInputs.cache
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.dll
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\refint\TwoDimArray.dll
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.pdb
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\TwoDimArray.genruntimeconfig.cache
+C:\Users\Maha\source\repos\TwoDimArray\TwoDimArray\obj\Debug\net8.0\ref\TwoDimArray.dll
