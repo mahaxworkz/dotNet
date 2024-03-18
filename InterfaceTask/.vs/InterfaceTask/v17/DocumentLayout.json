@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|c:\\users\\maha\\source\\repos\\dotnet\\interfacetask\\interfacetask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|solutionrelative:interfacetask\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|c:\\users\\maha\\source\\repos\\dotnet\\interfacetask\\interfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|solutionrelative:interfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|c:\\users\\maha\\source\\repos\\dotnet\\interfacetask\\interfacetask\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|solutionrelative:interfacetask\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|c:\\users\\maha\\source\\repos\\dotnet\\interfacetask\\interfacetask\\myinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAEBC2A-0424-4C0B-A85A-86FDE3D7B59F}|InterfaceTask\\InterfaceTask.csproj|solutionrelative:interfacetask\\myinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\Student.cs",
+              "RelativeDocumentMoniker": "InterfaceTask\\Student.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\Student.cs",
+              "RelativeToolTip": "InterfaceTask\\Student.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:31:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staffs.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\Staffs.cs",
+              "RelativeDocumentMoniker": "InterfaceTask\\Staffs.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\Staffs.cs",
+              "RelativeToolTip": "InterfaceTask\\Staffs.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:18:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\MyInterface.cs",
+              "RelativeDocumentMoniker": "InterfaceTask\\MyInterface.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\MyInterface.cs",
+              "RelativeToolTip": "InterfaceTask\\MyInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:15:30.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\InterfaceTask\\InterfaceTask\\Program.cs",
+              "RelativeToolTip": "InterfaceTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:11:43.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

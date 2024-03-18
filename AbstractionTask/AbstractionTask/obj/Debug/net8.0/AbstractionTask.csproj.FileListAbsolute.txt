@@ -1,0 +1,15 @@
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.exe
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.deps.json
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.runtimeconfig.json
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.dll
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\bin\Debug\net8.0\AbstractionTask.pdb
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.AssemblyInfoInputs.cache
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.AssemblyInfo.cs
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.csproj.CoreCompileInputs.cache
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.sourcelink.json
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.dll
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\refint\AbstractionTask.dll
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.pdb
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\AbstractionTask.genruntimeconfig.cache
+C:\Users\Maha\source\repos\dotNet\AbstractionTask\AbstractionTask\obj\Debug\net8.0\ref\AbstractionTask.dll
