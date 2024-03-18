@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BDB9B6E9-3F6C-4001-8D2A-9E8F392D1564}|OopsTask\\OopsTask.csproj|solutionrelative:oopstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BDB9B6E9-3F6C-4001-8D2A-9E8F392D1564}|OopsTask\\OopsTask.csproj|c:\\users\\maha\\source\\repos\\dotnet\\oopstask\\oopstask\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB9B6E9-3F6C-4001-8D2A-9E8F392D1564}|OopsTask\\OopsTask.csproj|solutionrelative:oopstask\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDB9B6E9-3F6C-4001-8D2A-9E8F392D1564}|OopsTask\\OopsTask.csproj|c:\\users\\maha\\source\\repos\\dotnet\\oopstask\\oopstask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDB9B6E9-3F6C-4001-8D2A-9E8F392D1564}|OopsTask\\OopsTask.csproj|solutionrelative:oopstask\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\OopsTask\\OopsTask\\Properties.cs",
+              "RelativeDocumentMoniker": "OopsTask\\Properties.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\OopsTask\\OopsTask\\Properties.cs",
+              "RelativeToolTip": "OopsTask\\Properties.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:44:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ITEmployee.cs",
               "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\OopsTask\\OopsTask\\ITEmployee.cs",
               "RelativeDocumentMoniker": "OopsTask\\ITEmployee.cs",
@@ -34,18 +51,17 @@
               "RelativeToolTip": "OopsTask\\ITEmployee.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAAB8AAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T16:15:21.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T16:15:21.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\OopsTask\\OopsTask\\Employee.cs",
               "RelativeDocumentMoniker": "OopsTask\\Employee.cs",
               "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\OopsTask\\OopsTask\\Employee.cs",
               "RelativeToolTip": "OopsTask\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T15:44:38.206Z",
               "EditorCaption": ""
@@ -58,7 +74,7 @@
               "RelativeDocumentMoniker": "OopsTask\\Program.cs",
               "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\OopsTask\\OopsTask\\Program.cs",
               "RelativeToolTip": "OopsTask\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T15:41:38.23Z",
               "EditorCaption": ""
