@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maha\\source\\repos\\dotNet\\Enumaration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F610C2D5-ADE4-44C1-BAB7-C0BA49F1E67C}|Enumaration\\Enumaration.csproj|c:\\users\\maha\\source\\repos\\dotnet\\enumaration\\enumaration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F610C2D5-ADE4-44C1-BAB7-C0BA49F1E67C}|Enumaration\\Enumaration.csproj|solutionrelative:enumaration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\Enumaration\\Enumaration\\Program.cs",
+              "RelativeDocumentMoniker": "Enumaration\\Program.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\Enumaration\\Enumaration\\Program.cs",
+              "RelativeToolTip": "Enumaration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:06:32.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

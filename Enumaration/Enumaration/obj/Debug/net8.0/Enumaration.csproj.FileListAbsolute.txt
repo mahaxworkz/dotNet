@@ -1,0 +1,15 @@
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\bin\Debug\net8.0\Enumaration.exe
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\bin\Debug\net8.0\Enumaration.deps.json
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\bin\Debug\net8.0\Enumaration.runtimeconfig.json
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\bin\Debug\net8.0\Enumaration.dll
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\bin\Debug\net8.0\Enumaration.pdb
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.AssemblyInfoInputs.cache
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.AssemblyInfo.cs
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.csproj.CoreCompileInputs.cache
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.sourcelink.json
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.dll
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\refint\Enumaration.dll
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.pdb
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\Enumaration.genruntimeconfig.cache
+C:\Users\Maha\source\repos\dotNet\Enumaration\Enumaration\obj\Debug\net8.0\ref\Enumaration.dll
