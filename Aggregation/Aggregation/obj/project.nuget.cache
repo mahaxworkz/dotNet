@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lk6x+ZM0KaEM9ieApY/mrwCHkegfZWmQICSod6xcfQeMfAMZyZacFKLopJWyR/SgpXmr7L4TB6L5yMwwENVmfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Aggregation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maha\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Maha\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Maha\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

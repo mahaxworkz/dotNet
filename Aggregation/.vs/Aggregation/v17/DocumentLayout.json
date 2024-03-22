@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BB413D-C030-44D2-BF4C-1A24CB19F980}|Aggregation\\Aggregation.csproj|c:\\users\\maha\\source\\repos\\dotnet\\aggregation\\aggregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BB413D-C030-44D2-BF4C-1A24CB19F980}|Aggregation\\Aggregation.csproj|solutionrelative:aggregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BB413D-C030-44D2-BF4C-1A24CB19F980}|Aggregation\\Aggregation.csproj|c:\\users\\maha\\source\\repos\\dotnet\\aggregation\\aggregation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BB413D-C030-44D2-BF4C-1A24CB19F980}|Aggregation\\Aggregation.csproj|solutionrelative:aggregation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BB413D-C030-44D2-BF4C-1A24CB19F980}|Aggregation\\Aggregation.csproj|c:\\users\\maha\\source\\repos\\dotnet\\aggregation\\aggregation\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BB413D-C030-44D2-BF4C-1A24CB19F980}|Aggregation\\Aggregation.csproj|solutionrelative:aggregation\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Address.cs",
+              "RelativeDocumentMoniker": "Aggregation\\Address.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Address.cs",
+              "RelativeToolTip": "Aggregation\\Address.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:37:27.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Student.cs",
+              "RelativeDocumentMoniker": "Aggregation\\Student.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Student.cs",
+              "RelativeToolTip": "Aggregation\\Student.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:31:54.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Program.cs",
+              "RelativeDocumentMoniker": "Aggregation\\Program.cs",
+              "ToolTip": "C:\\Users\\Maha\\source\\repos\\dotNet\\Aggregation\\Aggregation\\Program.cs",
+              "RelativeToolTip": "Aggregation\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:20:13.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
